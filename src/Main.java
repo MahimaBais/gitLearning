@@ -8,5 +8,7 @@ public class Main {
         System.out.println(arithmetic.mul(10,30));
         System.out.println(arithmetic.div(60,30));
 
+        MathGame mg = new MathGame();
+        mg.puzzle();
     }
 }

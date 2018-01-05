@@ -17,7 +17,7 @@ public class Message {
     }
     
     public void errorMessage(){
-         System.out.println("Check your operations and Operators.");
+         System.out.println("Check your operations and operators.");
 
      }
 }
