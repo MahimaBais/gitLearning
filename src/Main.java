@@ -11,5 +11,6 @@ public class Main {
         MathGame mg = new MathGame();
         mg.puzzle();
         mg.newPuzzle();
+        mg.puzzle3();
     }
 }

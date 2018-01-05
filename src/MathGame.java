@@ -15,4 +15,10 @@ public class MathGame {
         System.out.println(":0:0:0:0:0");
     }
 
+    public void puzzle3(){
+
+        System.out.println("_|_|_");
+        System.out.println("_|_|_");
+        System.out.println(" | | ");
+    }
 }
