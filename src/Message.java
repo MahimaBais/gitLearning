@@ -13,7 +13,6 @@ public class Message {
         }else {
            errorMessage()
          }
-
     }
     
     public void errorMessage(){
