@@ -11,8 +11,8 @@ public class Message {
         }else if(operation == "DIV"){
             System.out.println("Successfully divided and your answer is "+ans);
         }else {
-           errorMessage();
-        }
+           errorMessage()
+         }
 
     }
     
