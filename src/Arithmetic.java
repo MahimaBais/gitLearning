@@ -15,7 +15,7 @@ public class Arithmetic {
 
     public int div(int a,int b){
 
-        if(b==0){
+        if(a==0||b==0){
             throw new ArithmeticException();
         }else {
             return a/b;
