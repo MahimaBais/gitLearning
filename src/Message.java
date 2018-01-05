@@ -12,6 +12,7 @@ public class Message {
             System.out.println("Successfully divided and your answer is "+ans);
         }else {
             System.out.println("Check your operations");
+            System.out.println("Check your operators");
         }
 
     }
